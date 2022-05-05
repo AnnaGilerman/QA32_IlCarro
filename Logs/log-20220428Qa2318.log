@@ -1,0 +1,112 @@
+2096 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+2099 INFO  manager.ApplicationManager - All tests start in 'ChromeDriver'
+3934 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+3939 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+8998 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+9002 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+9041 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+9159 INFO  manager.MyListener - 'Start find' element --->By.id: email
+9193 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+9463 INFO  manager.MyListener - 'Start find' element --->By.id: password
+9501 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+9740 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+9767 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+9848 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+10318 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+10319 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+10357 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+10443 INFO  tests.TestBase - Test start with user ---->User{name='null', lastName='null', email='alexania1102@gmail.com', password='1q2w3e4R', phone='null'}
+10528 INFO  tests.TestBase - 'Car Reg Number' 100-22-1689
+11042 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+11087 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+11710 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+11746 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+11984 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+12392 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+12971 INFO  manager.MyListener - 'Start find' element --->By.id: make
+13010 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+13240 INFO  manager.MyListener - 'Start find' element --->By.id: model
+13275 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+13513 INFO  manager.MyListener - 'Start find' element --->By.id: year
+13556 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+13823 INFO  manager.MyListener - 'Start find' element --->By.id: year
+13860 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+14078 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+14113 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+14349 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+14379 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+14452 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+14494 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+14567 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+14599 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+14639 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+19671 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+19692 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+19695 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+19725 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+19727 INFO  tests.TestBase - 'Car Reg Number' 100-22-1699
+20236 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+20266 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+20849 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+20881 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+21122 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+21407 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+22002 INFO  manager.MyListener - 'Start find' element --->By.id: make
+22032 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+22232 INFO  manager.MyListener - 'Start find' element --->By.id: model
+22250 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+22475 INFO  manager.MyListener - 'Start find' element --->By.id: year
+22500 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+22729 INFO  manager.MyListener - 'Start find' element --->By.id: year
+22762 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+22983 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+23011 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+23216 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+23246 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+23287 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+23312 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+23330 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+23360 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+23399 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+28478 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+28482 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+28484 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+28514 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+28516 INFO  tests.TestBase - 'Car Reg Number' 100-22-1707
+29029 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+41258 INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b495d15b94ff20bef03ee8295628a95a
+*** Element info: {Using=id, value=1}
+41258 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b495d15b94ff20bef03ee8295628a95a
+*** Element info: {Using=id, value=1}
+41259 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@22a46d81
+53469 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+53470 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+65696 INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b495d15b94ff20bef03ee8295628a95a
+*** Element info: {Using=xpath, value=//*[text()=' Logout ']}
+65698 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b495d15b94ff20bef03ee8295628a95a
+*** Element info: {Using=xpath, value=//*[text()=' Logout ']}
+65699 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@7f43f616

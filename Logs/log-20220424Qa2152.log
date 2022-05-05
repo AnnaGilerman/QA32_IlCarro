@@ -1,0 +1,81 @@
+1629 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+1632 INFO  manager.ApplicationManager - All tests start in 'ChromeDriver'
+3039 INFO  tests.TestBase - Start test ----->public void tests.SearchTests.searchAnyPeriod()
+4053 INFO  manager.MyListener - 'Start find' element --->By.id: city
+4082 INFO  manager.MyListener - The element with locator --->By.id: city<----- was found
+4205 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+4585 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+4630 INFO  manager.MyListener - 'Start find' element --->By.id: dates
+4651 INFO  manager.MyListener - The element with locator --->By.id: dates<----- was found
+4727 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+4742 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+4792 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+4809 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+4868 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+4881 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+4918 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+4925 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+4959 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+4972 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5009 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+5018 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5056 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+5065 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5102 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+5111 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5144 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+5158 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5199 INFO  manager.MyListener - 'Start find' element --->By.xpath: //div[text()=' 5 ']
+5224 INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 5 ']<----- was found
+5264 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+5282 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5319 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[@aria-label='Next month']
+5329 INFO  manager.MyListener - The element with locator --->By.xpath: //button[@aria-label='Next month']<----- was found
+5367 INFO  manager.MyListener - 'Start find' element --->By.xpath: //div[text()=' 15 ']
+5379 INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 15 ']<----- was found
+5427 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+5442 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+5495 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+5517 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+5585 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .cars-container
+6542 INFO  manager.MyListener - The element with locator --->By.cssSelector: .cars-container<----- was found
+8555 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .header a[href='/']
+8589 INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']<----- was found
+8842 INFO  tests.TestBase - Start test ----->public void tests.SearchTests.searchCurrentMonth()
+9845 INFO  manager.MyListener - 'Start find' element --->By.id: city
+9866 INFO  manager.MyListener - The element with locator --->By.id: city<----- was found
+9976 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+10367 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+10409 INFO  manager.MyListener - 'Start find' element --->By.id: dates
+10426 INFO  manager.MyListener - The element with locator --->By.id: dates<----- was found
+10482 INFO  manager.MyListener - 'Start find' element --->By.xpath: //div[text()=' 10 ']
+10507 INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 10 ']<----- was found
+10550 INFO  manager.MyListener - 'Start find' element --->By.xpath: //div[text()=' 20 ']
+10568 INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 20 ']<----- was found
+10609 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+10627 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+10661 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+10677 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+10737 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .cars-container
+11817 INFO  manager.MyListener - The element with locator --->By.cssSelector: .cars-container<----- was found
+13830 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .header a[href='/']
+13854 INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']<----- was found
+13987 INFO  tests.TestBase - Start test ----->public void tests.SearchTests.searchPeriodInPast()
+14995 INFO  manager.MyListener - 'Start find' element --->By.id: city
+15025 INFO  manager.MyListener - The element with locator --->By.id: city<----- was found
+15174 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+15566 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+15614 INFO  manager.MyListener - 'Start find' element --->By.id: dates
+15627 INFO  manager.MyListener - The element with locator --->By.id: dates<----- was found
+17743 INFO  manager.MyListener - 'Start find' element --->By.id: dates
+17771 INFO  manager.MyListener - The element with locator --->By.id: dates<----- was found
+17939 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .cdk-overlay-container
+17954 INFO  manager.MyListener - The element with locator --->By.cssSelector: .cdk-overlay-container<----- was found
+18586 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+18605 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+18645 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+18669 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+19689 INFO  manager.MyListener - 'Start find' element --->By.xpath: //div[@class='ng-star-inserted']
+19723 INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='ng-star-inserted']<----- was found
+21743 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .header a[href='/']
+21771 INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']<----- was found

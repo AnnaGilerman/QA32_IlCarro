@@ -1,0 +1,296 @@
+1608 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+1611 INFO  manager.ApplicationManager - All tests start in 'ChromeDriver'
+2981 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccess()
+2983 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+8048 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+8051 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+8070 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+8147 INFO  manager.MyListener - 'Start find' element --->By.id: email
+8172 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+8301 INFO  manager.MyListener - 'Start find' element --->By.id: password
+8311 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+8407 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+8423 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+8460 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+8933 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+8933 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+8949 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+8992 INFO  tests.TestBase - Test start with user ---->User{name='null', lastName='null', email='alexania1102@gmail.com', password='1q2w3e4R', phone='null'}
+8996 INFO  tests.TestBase - 'Car Reg Number' 100-22-8252
+9021 INFO  tests.TestBase - Add car---->Car(address=Tel Aviv, Israel, make=BMW, model=M5, year=2022, engine=2.5, fuel=Petrol, gear=MT, wD=AWD, doors=5, seats=4, clasS=C, fuelConsumption=6.5, carRegNumber=100-22-8252, price=65, distanceIncluded=500, feature=Type of features, about=Very good car)
+9531 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+9559 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+10119 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+10151 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+10307 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+10693 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+11233 INFO  manager.MyListener - 'Start find' element --->By.id: make
+11265 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+11382 INFO  manager.MyListener - 'Start find' element --->By.id: model
+11398 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+11508 INFO  manager.MyListener - 'Start find' element --->By.id: year
+11527 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+11665 INFO  manager.MyListener - 'Start find' element --->By.id: year
+11689 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+11800 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+11817 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+11931 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+11942 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+11973 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+11990 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+12031 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+12049 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+12079 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "MT"]
+12100 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "MT"]<----- was found
+12139 INFO  manager.MyListener - 'Start find' element --->By.id: wheelsDrive
+12160 INFO  manager.MyListener - The element with locator --->By.id: wheelsDrive<----- was found
+12189 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "AWD"]
+12208 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "AWD"]<----- was found
+12247 INFO  manager.MyListener - 'Start find' element --->By.id: doors
+12270 INFO  manager.MyListener - The element with locator --->By.id: doors<----- was found
+12393 INFO  manager.MyListener - 'Start find' element --->By.id: seats
+12409 INFO  manager.MyListener - The element with locator --->By.id: seats<----- was found
+12532 INFO  manager.MyListener - 'Start find' element --->By.id: class
+12546 INFO  manager.MyListener - The element with locator --->By.id: class<----- was found
+12657 INFO  manager.MyListener - 'Start find' element --->By.id: fuelConsumption
+12669 INFO  manager.MyListener - The element with locator --->By.id: fuelConsumption<----- was found
+12792 INFO  manager.MyListener - 'Start find' element --->By.id: serialNumber
+12809 INFO  manager.MyListener - The element with locator --->By.id: serialNumber<----- was found
+12906 INFO  manager.MyListener - 'Start find' element --->By.id: price
+12915 INFO  manager.MyListener - The element with locator --->By.id: price<----- was found
+13035 INFO  manager.MyListener - 'Start find' element --->By.id: distance
+13057 INFO  manager.MyListener - The element with locator --->By.id: distance<----- was found
+13176 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .feature-input
+13198 INFO  manager.MyListener - The element with locator --->By.cssSelector: .feature-input<----- was found
+13310 INFO  manager.MyListener - 'Start find' element --->By.id: about
+13336 INFO  manager.MyListener - The element with locator --->By.id: about<----- was found
+13450 INFO  manager.MyListener - 'Start find' element --->By.id: photos
+13473 INFO  manager.MyListener - The element with locator --->By.id: photos<----- was found
+13519 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+13534 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+15204 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+15224 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+15263 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: div.dialog-container
+16465 INFO  manager.MyListener - The element with locator --->By.cssSelector: div.dialog-container<----- was found
+16501 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: div.dialog-container h1
+16530 INFO  manager.MyListener - The element with locator --->By.cssSelector: div.dialog-container h1<----- was found
+16543 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Search cars']
+16559 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Search cars']<----- was found
+16606 INFO  tests.TestBase - Start test ----->public void tests.LoginTests.loginSuccess()
+16607 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+16623 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+16624 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+16652 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+16774 INFO  tests.TestBase - Test needs logout
+16774 INFO  tests.TestBase - The test starts with data [alexania1102@gmail.com] & [1q2w3e4R]
+16774 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+16791 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+16834 INFO  manager.MyListener - 'Start find' element --->By.id: email
+16852 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+16982 INFO  manager.MyListener - 'Start find' element --->By.id: password
+16992 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+17107 INFO  tests.TestBase - fill form
+17107 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+17115 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+18161 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container
+18194 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container<----- was found
+18223 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container h2
+18255 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container h2<----- was found
+18268 INFO  tests.TestBase - Test passed
+18269 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+18298 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+18299 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+18313 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+18349 INFO  tests.TestBase - Start test ----->public void tests.LoginTests.loginSuccessModel()
+18351 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+18370 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+18371 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+18387 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+18449 INFO  tests.TestBase - Test needs logout
+18450 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+18462 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+18506 INFO  manager.MyListener - 'Start find' element --->By.id: email
+18523 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+18663 INFO  manager.MyListener - 'Start find' element --->By.id: password
+18675 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+18789 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+18798 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+19847 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container
+19874 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container<----- was found
+19909 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container h2
+19935 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container h2<----- was found
+19954 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+19981 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+19981 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+19996 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+20038 INFO  tests.TestBase - Start test ----->public void tests.LoginTests.loginSuccessNew()
+20039 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+20058 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+20058 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+20073 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+20119 INFO  tests.TestBase - Test needs logout
+20120 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+20131 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+20173 INFO  manager.MyListener - 'Start find' element --->By.id: email
+20192 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+20326 INFO  manager.MyListener - 'Start find' element --->By.id: password
+20348 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+20461 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+20474 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+21520 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container
+21549 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container<----- was found
+21584 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container h2
+21610 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container h2<----- was found
+21630 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+21656 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+21656 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+21670 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+21713 INFO  tests.TestBase - Start test ----->public void tests.RegistrationTests.registrationSuccess()
+21715 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+21736 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+21738 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+21763 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+21820 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Sign up ']
+21840 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Sign up ']<----- was found
+21883 INFO  manager.MyListener - 'Start find' element --->By.id: name
+21899 INFO  manager.MyListener - The element with locator --->By.id: name<----- was found
+22006 INFO  manager.MyListener - 'Start find' element --->By.id: lastName
+22026 INFO  manager.MyListener - The element with locator --->By.id: lastName<----- was found
+22134 INFO  manager.MyListener - 'Start find' element --->By.id: email
+22142 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+22272 INFO  manager.MyListener - 'Start find' element --->By.id: password
+22281 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+22398 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: label[for='terms-of-use']
+22411 INFO  manager.MyListener - The element with locator --->By.cssSelector: label[for='terms-of-use']<----- was found
+22802 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+22811 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+22851 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container
+23295 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container<----- was found
+23312 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container h2
+23326 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container h2<----- was found
+23338 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+23358 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+23358 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+23379 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+23427 INFO  tests.TestBase - Start test ----->public void tests.RegistrationTests.registrationSuccessModel()
+23430 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+23452 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+23453 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+23466 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+23528 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Sign up ']
+23541 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Sign up ']<----- was found
+23584 INFO  manager.MyListener - 'Start find' element --->By.id: name
+23605 INFO  manager.MyListener - The element with locator --->By.id: name<----- was found
+23714 INFO  manager.MyListener - 'Start find' element --->By.id: lastName
+23726 INFO  manager.MyListener - The element with locator --->By.id: lastName<----- was found
+23844 INFO  manager.MyListener - 'Start find' element --->By.id: email
+23871 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+23994 INFO  manager.MyListener - 'Start find' element --->By.id: password
+24004 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+24120 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: label[for='terms-of-use']
+24141 INFO  manager.MyListener - The element with locator --->By.cssSelector: label[for='terms-of-use']<----- was found
+24539 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+24550 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+24591 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container
+24929 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container<----- was found
+24961 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .dialog-container h2
+24990 INFO  manager.MyListener - The element with locator --->By.cssSelector: .dialog-container h2<----- was found
+25010 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+25032 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+25032 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+25048 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+25088 INFO  tests.TestBase - Start test ----->public void tests.RegistrationTests.registrationWrongPasswordModel()
+25089 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+25109 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+25109 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+25124 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+25181 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Sign up ']
+25204 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Sign up ']<----- was found
+25250 INFO  manager.MyListener - 'Start find' element --->By.id: name
+25261 INFO  manager.MyListener - The element with locator --->By.id: name<----- was found
+25376 INFO  manager.MyListener - 'Start find' element --->By.id: lastName
+25389 INFO  manager.MyListener - The element with locator --->By.id: lastName<----- was found
+25503 INFO  manager.MyListener - 'Start find' element --->By.id: email
+25509 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+25640 INFO  manager.MyListener - 'Start find' element --->By.id: password
+25649 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+25761 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: label[for='terms-of-use']
+25774 INFO  manager.MyListener - The element with locator --->By.cssSelector: label[for='terms-of-use']<----- was found
+26154 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+26183 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+26221 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: div.error div:first-child
+26245 INFO  manager.MyListener - The element with locator --->By.cssSelector: div.error div:first-child<----- was found
+26261 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: div.error div:last-child
+26275 INFO  manager.MyListener - The element with locator --->By.cssSelector: div.error div:last-child<----- was found
+26288 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+26304 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+26312 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: button[disabled]
+26341 INFO  manager.MyListener - The element with locator --->By.cssSelector: button[disabled]<----- was found
+26342 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+31398 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+31401 INFO  tests.TestBase - Start test ----->public void tests.SearchTests.searchAnyPeriod()
+31402 INFO  manager.MyListener - 'Start find' element --->By.id: city
+36474 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":"#city"}
+  (Session info: chrome=100.0.4896.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feef0fc060cde730c54160007f7bcc8d
+*** Element info: {Using=id, value=city}
+36475 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#city"}
+  (Session info: chrome=100.0.4896.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feef0fc060cde730c54160007f7bcc8d
+*** Element info: {Using=id, value=city}
+36476 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@1d5c7c18
+37019 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-521 .png
+37021 INFO  tests.TestBase - Start test ----->public void tests.SearchTests.searchCurrentMonth()
+37022 INFO  manager.MyListener - 'Start find' element --->By.id: city
+42079 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":"#city"}
+  (Session info: chrome=100.0.4896.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feef0fc060cde730c54160007f7bcc8d
+*** Element info: {Using=id, value=city}
+42079 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#city"}
+  (Session info: chrome=100.0.4896.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feef0fc060cde730c54160007f7bcc8d
+*** Element info: {Using=id, value=city}
+42080 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@3f3b105a
+42615 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-526 .png
+42620 INFO  tests.TestBase - Start test ----->public void tests.SearchTests.searchPeriodInPast()
+42624 INFO  manager.MyListener - 'Start find' element --->By.id: city
+47679 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":"#city"}
+  (Session info: chrome=100.0.4896.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feef0fc060cde730c54160007f7bcc8d
+*** Element info: {Using=id, value=city}
+47680 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#city"}
+  (Session info: chrome=100.0.4896.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: feef0fc060cde730c54160007f7bcc8d
+*** Element info: {Using=id, value=city}
+47680 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@70e0457e
+48073 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-532 .png

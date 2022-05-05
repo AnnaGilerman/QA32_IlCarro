@@ -1,0 +1,159 @@
+1567 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+1569 INFO  manager.ApplicationManager - All tests start in 'ChromeDriver'
+3023 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+3025 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+8101 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+8103 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+8119 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+8184 INFO  manager.MyListener - 'Start find' element --->By.id: email
+8209 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+8335 INFO  manager.MyListener - 'Start find' element --->By.id: password
+8349 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+8455 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+8472 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+8509 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+9135 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+9135 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+9153 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+9196 INFO  tests.TestBase - Test start with user ---->User{name='null', lastName='null', email='alexania1102@gmail.com', password='1q2w3e4R', phone='null'}
+9224 INFO  tests.TestBase - 'Car Reg Number' 100-22-12946
+9738 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+9772 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+10341 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+10374 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+10529 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+10871 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+11428 INFO  manager.MyListener - 'Start find' element --->By.id: make
+11460 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+11584 INFO  manager.MyListener - 'Start find' element --->By.id: model
+11609 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+11715 INFO  manager.MyListener - 'Start find' element --->By.id: year
+11733 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+11858 INFO  manager.MyListener - 'Start find' element --->By.id: year
+11870 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+11966 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+11980 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+12093 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+12108 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+12139 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+12155 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+12195 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+12216 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+12245 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+17303 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+17318 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+17319 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+17337 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+17338 INFO  tests.TestBase - 'Car Reg Number' 100-22-12955
+17838 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+17866 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+18428 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+18454 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+18597 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+23665 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+23666 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+23667 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@1e6587cd
+23815 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-1603 .png
+23818 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+23820 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+23834 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+23835 INFO  tests.TestBase - 'Car Reg Number' 100-22-12961
+24343 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+24371 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+24919 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+24939 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+25033 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+30091 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+30092 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+30093 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@3877b3b0
+30222 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-1609 .png
+30223 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+30224 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+30240 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+30240 INFO  tests.TestBase - 'Car Reg Number' 100-22-12967
+30749 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+30769 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+31309 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+31332 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+31426 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+36441 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+36442 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+36443 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@3c54a0b
+36565 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-1615 .png
+36566 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+36566 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+36578 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+36578 INFO  tests.TestBase - 'Car Reg Number' 100-22-12974
+37085 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+37109 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+37646 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+37667 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+37763 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+42823 INFO  manager.MyListener - We have a 'throwable'---->no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+42824 INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".pac-item"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7a2d1b6ad228e73168a7433fc2981d9
+*** Element info: {Using=css selector, value=.pac-item}
+42825 INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@5bed182a
+43028 INFO  manager.MyListener - This is the link to screen with problem ---> src/test/screenshots/screen-1622 .png

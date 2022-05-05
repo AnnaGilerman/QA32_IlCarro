@@ -1,0 +1,155 @@
+4675 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+4685 INFO  manager.ApplicationManager - All tests start in 'ChromeDriver'
+7865 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+7870 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+12925 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+12928 INFO  manager.MyListener - 'Start find' element --->By.xpath: //a[text()=' Log in ']
+12966 INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']<----- was found
+13091 INFO  manager.MyListener - 'Start find' element --->By.id: email
+13129 INFO  manager.MyListener - The element with locator --->By.id: email<----- was found
+13384 INFO  manager.MyListener - 'Start find' element --->By.id: password
+13407 INFO  manager.MyListener - The element with locator --->By.id: password<----- was found
+13629 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [type='submit']
+13659 INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']<----- was found
+13743 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+14175 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+14176 INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[text()='Ok']
+14207 INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']<----- was found
+14324 INFO  tests.TestBase - Test start with user ---->User{name='null', lastName='null', email='alexania1102@gmail.com', password='1q2w3e4R', phone='null'}
+14422 INFO  tests.TestBase - 'Car Reg Number' 100-22-1042
+14932 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+14972 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+15616 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+15655 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+15901 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+16315 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+16892 INFO  manager.MyListener - 'Start find' element --->By.id: make
+16929 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+17164 INFO  manager.MyListener - 'Start find' element --->By.id: model
+17198 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+17435 INFO  manager.MyListener - 'Start find' element --->By.id: year
+17479 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+17747 INFO  manager.MyListener - 'Start find' element --->By.id: year
+17783 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+17995 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+18025 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+18256 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+18286 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+18356 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+18404 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+18479 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+18518 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+18559 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+23590 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+23613 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+23615 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+23644 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+23646 INFO  tests.TestBase - 'Car Reg Number' 100-22-1052
+24162 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+24194 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+24775 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+24808 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+25019 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+25304 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+25901 INFO  manager.MyListener - 'Start find' element --->By.id: make
+25931 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+26133 INFO  manager.MyListener - 'Start find' element --->By.id: model
+26166 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+26368 INFO  manager.MyListener - 'Start find' element --->By.id: year
+26399 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+26598 INFO  manager.MyListener - 'Start find' element --->By.id: year
+26634 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+26818 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+26849 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+27054 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+27084 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+27125 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+27142 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+27158 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+27192 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+27232 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+32249 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+32254 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+32255 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+32286 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+32288 INFO  tests.TestBase - 'Car Reg Number' 100-22-1060
+32797 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+32831 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+33419 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+33451 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+33715 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+34007 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+34603 INFO  manager.MyListener - 'Start find' element --->By.id: make
+34634 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+34878 INFO  manager.MyListener - 'Start find' element --->By.id: model
+34912 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+35130 INFO  manager.MyListener - 'Start find' element --->By.id: year
+35162 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+35378 INFO  manager.MyListener - 'Start find' element --->By.id: year
+35414 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+35615 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+35641 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+35856 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+35875 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+35920 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+35962 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+35979 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+36002 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+36043 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+41075 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+41079 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+41081 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+41113 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+41115 INFO  tests.TestBase - 'Car Reg Number' 100-22-1069
+41630 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+41660 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+42239 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+42268 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+42470 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+42749 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+43347 INFO  manager.MyListener - 'Start find' element --->By.id: make
+43385 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+43573 INFO  manager.MyListener - 'Start find' element --->By.id: model
+43598 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+43804 INFO  manager.MyListener - 'Start find' element --->By.id: year
+43831 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+44041 INFO  manager.MyListener - 'Start find' element --->By.id: year
+44065 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+44268 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+44298 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+44499 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+44534 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+44575 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+44594 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+44611 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+44639 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+44683 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+49711 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+49715 INFO  tests.TestBase - Start test ----->public void tests.AddNewCarTest.addNewCarSuccessDataProviderCSV(models.Car)
+49716 INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Logout ']
+49751 INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']<----- was found
+49752 INFO  tests.TestBase - 'Car Reg Number' 100-22-1078
+50267 INFO  manager.MyListener - 'Start find' element --->By.id: 1
+50304 INFO  manager.MyListener - The element with locator --->By.id: 1<----- was found
+50876 INFO  manager.MyListener - 'Start find' element --->By.id: pickUpPlace
+50909 INFO  manager.MyListener - The element with locator --->By.id: pickUpPlace<----- was found
+51138 INFO  manager.MyListener - 'Start find' element --->By.cssSelector: .pac-item
+51433 INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item<----- was found
+52027 INFO  manager.MyListener - 'Start find' element --->By.id: make
+52056 INFO  manager.MyListener - The element with locator --->By.id: make<----- was found
+52256 INFO  manager.MyListener - 'Start find' element --->By.id: model
+52274 INFO  manager.MyListener - The element with locator --->By.id: model<----- was found
+52473 INFO  manager.MyListener - 'Start find' element --->By.id: year
+52494 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+52704 INFO  manager.MyListener - 'Start find' element --->By.id: year
+52729 INFO  manager.MyListener - The element with locator --->By.id: year<----- was found
+52927 INFO  manager.MyListener - 'Start find' element --->By.id: engine
+52965 INFO  manager.MyListener - The element with locator --->By.id: engine<----- was found
+53180 INFO  manager.MyListener - 'Start find' element --->By.id: fuel
+53212 INFO  manager.MyListener - The element with locator --->By.id: fuel<----- was found
+53253 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+53271 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
+53285 INFO  manager.MyListener - 'Start find' element --->By.id: gear
+53304 INFO  manager.MyListener - The element with locator --->By.id: gear<----- was found
+53330 INFO  manager.MyListener - 'Start find' element --->By.xpath: .//option[@value = "Petrol"]
+58394 INFO  manager.MyListener - The element with locator --->By.xpath: .//option[@value = "Petrol"]<----- was found
